@@ -4,7 +4,7 @@
 
 ### AI-Powered Adaptive Learning Platform
 
-*Master any topic with personalized flashcards, quizzes, and intelligent curriculum trees*
+🚀 **Live Production SaaS** — *Master any topic with personalized flashcards, quizzes, and intelligent curriculum trees*
 
 [![React](https://img.shields.io/badge/React-18.2-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.3-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -231,6 +231,6 @@ Animated thinking indicator using Framer Motion.
 This repository contains documentation and representative code samples for portfolio purposes.
 The full source code is proprietary and not available for redistribution.
 
-**© 2024 Sahil Kamal. All Rights Reserved.**
+**© 2025 Sahil Kamal. All Rights Reserved.**
 
 </div>
