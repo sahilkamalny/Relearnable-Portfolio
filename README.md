@@ -15,7 +15,7 @@
 
 ---
 
-**[🌐 Live Demo](https://relearnable.ai)** · **[📧 Contact](mailto:sahilkamal.dev@gmail.com)** · **[💼 LinkedIn](https://linkedin.com/in/sahilkamalny)** · **[🌍 Portfolio](https://sahilkamal.dev)**
+**[🌐 Live Demo](https://relearnable.ai)** · **[💼 LinkedIn](https://linkedin.com/in/sahilkamalny)** · **[🌍 Portfolio](https://sahilkamal.dev)** · **[📧 Contact](mailto:sahilkamal.dev@gmail.com)**
 
 </div>
 
