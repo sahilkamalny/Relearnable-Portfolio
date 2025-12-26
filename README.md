@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/logo.svg" alt="Relearnable Logo" width="80" height="80" />
+
 # Relearnable
 
 ### AI-Powered Adaptive Learning Platform
@@ -27,15 +29,15 @@
 
 | Landing Page | Dashboard |
 |:---:|:---:|
-| ![Landing Page](assets/Landing%20Page.png) | ![Dashboard](assets/Dashboard%20(Search%20Area).png) |
+| ![Landing Page](assets/landing-page.png) | ![Dashboard](assets/dashboard-search.png) |
 
 | Flashcard Lessons | Interactive Quizzes |
 |:---:|:---:|
-| ![Flashcard](assets/Lesson%20Plan%20Flashcard.png) | ![Quiz](assets/Correct%20Answer%20in%20Quiz.png) |
+| ![Flashcard](assets/flashcard-lesson.png) | ![Quiz](assets/quiz-correct-answer.png) |
 
 | Curriculum Tree | Mastery Tracking |
 |:---:|:---:|
-| ![Curriculum](assets/Curriculum%20Tree.png) | ![Dashboard Cards](assets/Dashboard%20(Learning_Card%20Area).png) |
+| ![Curriculum](assets/curriculum-tree.png) | ![Dashboard Cards](assets/dashboard-cards.png) |
 
 </div>
 

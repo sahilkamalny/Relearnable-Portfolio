@@ -43,7 +43,7 @@ Relearn Mode identifies and addresses knowledge gaps:
 4. **Targeted Curriculum**: AI generates focused remediation
 5. **Curriculum Expansion**: Tree grows as topics are mastered
 
-![Curriculum Tree](assets/Curriculum%20Tree.png)
+![Curriculum Tree](assets/curriculum-tree.png)
 
 ---
 
@@ -112,7 +112,7 @@ Interactive flashcards with keyword highlighting:
 - **Progress Indicator**: Section and card position
 - **Smooth Animations**: Card transitions
 
-![Flashcard View](assets/Lesson%20Plan%20Flashcard.png)
+![Flashcard View](assets/flashcard-lesson.png)
 
 ---
 
@@ -133,7 +133,7 @@ Comprehensive quiz system with immediate feedback:
 
 | Correct Answer | Incorrect Answer |
 |:---:|:---:|
-| ![Correct](assets/Correct%20Answer%20in%20Quiz.png) | ![Incorrect](assets/Incorrect%20Answer%20in%20Quiz.png) |
+| ![Correct](assets/quiz-correct-answer.png) | ![Incorrect](assets/quiz-incorrect-answer.png) |
 
 ---
 
@@ -155,8 +155,8 @@ The central hub for all learning activities:
 
 | Dashboard Areas |
 |:---:|
-| ![Search Area](assets/Dashboard%20(Search%20Area).png) |
-| ![Card Area](assets/Dashboard%20(Learning_Card%20Area).png) |
+| ![Search Area](assets/dashboard-search.png) |
+| ![Card Area](assets/dashboard-cards.png) |
 
 ---
 
@@ -173,7 +173,7 @@ Comprehensive user settings:
 
 | Account Settings | Activity Log |
 |:---:|:---:|
-| ![Account](assets/Account%20Management%20(Settings).png) | ![Activity](assets/Activity%20Log%20(Settings).png) |
+| ![Account](assets/settings-account.png) | ![Activity](assets/settings-activity-log.png) |
 
 ---
 
