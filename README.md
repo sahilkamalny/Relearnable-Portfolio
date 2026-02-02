@@ -233,6 +233,6 @@ Animated thinking indicator using Framer Motion.
 This repository contains documentation and representative code samples for portfolio purposes.
 The full source code is proprietary and not available for redistribution.
 
-**© 2025 Sahil Kamal. All Rights Reserved.**
+**© 2026 Sahil Kamal. All Rights Reserved.**
 
 </div>
